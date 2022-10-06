@@ -1,6 +1,6 @@
-![Imagen decorativa de tu perfil](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/IMAGEN-DECORATIVA-DEL-PERFIL.jpg?raw=true)
+![inico](https://user-images.githubusercontent.com/60619582/194216252-147edd8f-dd5a-4f22-8fbf-ef7b6f49a0e8.jpg)
 
-<!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
+
 <h1 align="center">Hola 👋, Soy Andrey Sanchez</h1>
 
 
