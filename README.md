@@ -10,7 +10,7 @@
 
 - 👨‍💻 Todos mis proyectos estan en : [www.andreyszcr.netlify.app](https://andreyszcr.netlify.app)
 
-- 📫 Pueden contactarme al correo :**andrey.sanchez30@htomail.com**
+- 📫 Pueden contactarme al correo :**andreyszcr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
